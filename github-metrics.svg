@@ -37,8 +37,8 @@
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
@@ -346,20 +346,20 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 841kb of code in 733 edited files across 181 commits over last 69 days</small>
+                <small>estimation from 845kb of code in 736 edited files across 183 commits over last 70 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="373.225437176805" height="8" fill="#c22d40"/>
-                    <rect mask="url(#languages-bar)" x="373.225437176805" y="0" width="355.51257253384915" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="728.7380097106541" y="0" width="134.80282635297834" height="8" fill="#6E4C13"/>
-                    <rect mask="url(#languages-bar)" x="863.5408360636325" y="0" width="21.761338964986383" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="885.3021750286189" y="0" width="16.691272253582284" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="901.993447282201" y="0" width="7.954841511072514" height="8" fill="#199f4b"/>
-                    <rect mask="url(#languages-bar)" x="909.9482887932736" y="0" width="5.809023802944775" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="915.7573125962184" y="0" width="4.242687403781629" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="371.4685057471264" height="8" fill="#c22d40"/>
+                    <rect mask="url(#languages-bar)" x="371.4685057471264" y="0" width="352.73324819071945" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="724.2017539378459" y="0" width="139.07862068965517" height="8" fill="#6E4C13"/>
+                    <rect mask="url(#languages-bar)" x="863.280374627501" y="0" width="22.293060876968923" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="885.5734355044699" y="0" width="16.56078331204768" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="902.1342188165177" y="0" width="7.892652192422308" height="8" fill="#199f4b"/>
+                    <rect mask="url(#languages-bar)" x="910.02687100894" y="0" width="5.763610046828438" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="915.7904810557684" y="0" width="4.209518944231588" height="8" fill="#563d7c"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -371,9 +371,9 @@
                                 Scala
                             </div>
                             <small>
-                                <div>9.83k lines</div>
-                                <div>236 kB</div>
-                                <div>40.57%</div>
+                                <div>9.86k lines</div>
+                                <div>237 kB</div>
+                                <div>40.38%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -386,7 +386,7 @@
                             <small>
                                 <div>274 lines</div>
                                 <div>10.5 kB</div>
-                                <div>1.81%</div>
+                                <div>1.8%</div>
                             </small>
                         </div>
                     </section>
@@ -401,7 +401,7 @@
                             <small>
                                 <div>12.7k lines</div>
                                 <div>225 kB</div>
-                                <div>38.64%</div>
+                                <div>38.34%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -427,9 +427,9 @@
                                 Assembly
                             </div>
                             <small>
-                                <div>7.39k lines</div>
-                                <div>85.3 kB</div>
-                                <div>14.65%</div>
+                                <div>7.68k lines</div>
+                                <div>88.7 kB</div>
+                                <div>15.12%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -455,9 +455,9 @@
                                 Python
                             </div>
                             <small>
-                                <div>540 lines</div>
-                                <div>13.7 kB</div>
-                                <div>2.37%</div>
+                                <div>561 lines</div>
+                                <div>14.2 kB</div>
+                                <div>2.42%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -496,7 +496,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 Jul 2023, 00:30:08  with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 17 Jul 2023, 00:30:04  with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
