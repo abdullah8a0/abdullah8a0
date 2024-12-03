@@ -346,14 +346,14 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 573b of code in 6 edited files across 4 commits over last 91 days</small>
+                <small>estimation from 371b of code in 4 edited files across 2 commits over last 91 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="853.4095238095238" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="853.4095238095238" y="0" width="66.5904761904762" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="825.7681940700809" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="825.7681940700809" y="0" width="94.23180592991913" height="8" fill="#663399"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -365,9 +365,9 @@
                                 HTML
                             </div>
                             <small>
-                                <div>8 lines</div>
-                                <div>487 bytes</div>
-                                <div>92.76%</div>
+                                <div>6 lines</div>
+                                <div>333 bytes</div>
+                                <div>89.76%</div>
                             </small>
                         </div>
                     </section>
@@ -382,7 +382,7 @@
                             <small>
                                 <div>2 lines</div>
                                 <div>38 bytes</div>
-                                <div>7.24%</div>
+                                <div>10.24%</div>
                             </small>
                         </div>
                     </section>
@@ -476,7 +476,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.1218343600273872 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="2.334017796030122 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -537,7 +537,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 3.68m out of 150m users</span>
+                                    <span class="gh">ranked 3.69m out of 150m users</span>
                                 </div>
                                 <div class="text">Published 18 public repositories</div>
                             </div>
@@ -774,7 +774,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.45m out of 227m repositories</span>
+                                    <span class="gh">ranked 2.46m out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 8 stars</div>
                             </div>
@@ -851,7 +851,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 5.47m out of 227m repositories</span>
+                                    <span class="gh">ranked 5.47m out of 228m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 1 time</div>
                             </div>
@@ -903,7 +903,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 2 Dec 2024, 00:31:39  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Dec 2024, 00:31:18  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
